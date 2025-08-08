@@ -16,7 +16,7 @@ Frontend:
 
 Create a UI with forms and buttons for all CRUD operations
 
-Fetch data from the backend using axios or fetch
+Fetch data from the backend.
 
 Handle validation, success, and error messages
 
